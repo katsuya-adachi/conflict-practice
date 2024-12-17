@@ -1,2 +1,3 @@
 # conflict-practice
-コンフリクト練習用
+
+Conflict occured.
